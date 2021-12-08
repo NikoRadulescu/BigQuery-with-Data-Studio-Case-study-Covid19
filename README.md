@@ -6,6 +6,8 @@ Analysing public CovidData dataset (https://ourworldindata.org/covid-deaths) usi
 
 **Skills used**: Joins, CTE's, Windows Functions, Aggregate Functions .
 
+![BigQuery and Data Studio dashboard](https://github.com/NikoRadulescu/BigQuery-with-Data-Studio-Case-study-Covid19/blob/d8716f56b9511d66ef1711462015cc4f8033ebc4/screenshoot-dashboard.jpg)
+
 # Step by step tutorial
 
 ### 1. Exploring the CovidDeaths data
